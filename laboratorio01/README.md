@@ -1,6 +1,6 @@
 [`Introducción a la Ingeniería de Software`](../README.md) > `Laboratorio 1`
 
-## Sesión 1: Introducción a Haskell
+## Laboratorio 1: Repaso de Programación Secuencial
 
 <img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 
