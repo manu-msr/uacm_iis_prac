@@ -12,4 +12,5 @@ En este curso el estudiante aprenderá y aplicará técnicas de Proceso de Softw
 
 Laboratorio | Tema                                                                    | 
 :---------: | :---------------------------------------------------------------------- |
-1           | [Repaso: Programación Secuencial](laboratorio01/README.md)                   |
+1           | [Repaso: Programación Secuencial](laboratorio01/README.md)              |
+2           | [Repaso: Estructuras de Decisión](laboratorio02/README.md)              |
