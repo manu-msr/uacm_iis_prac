@@ -7,7 +7,7 @@ int main(void)
 
    // Pedir datos al usuario.
    printf("Introduce una Calificación: ");
-   scanf("%d", &n);
+   scanf("%d", &c);
 
    // Toma de decisiones y resultados.
    if (c >= 7)

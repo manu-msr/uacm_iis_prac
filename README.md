@@ -14,3 +14,4 @@ Laboratorio | Tema                                                              
 :---------: | :---------------------------------------------------------------------- |
 1           | [Repaso: Programación Secuencial](laboratorio01/README.md)              |
 2           | [Repaso: Estructuras de Decisión](laboratorio02/README.md)              |
+3           | [Repaso: Estructuras de Repetición](laboratorio03/README.md)            |
