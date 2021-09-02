@@ -67,7 +67,6 @@ do
 ```
 
 <img src="imagenes/imagen3.png" align="center" height="280" width="260" hspace="10">
-<br/><br/>
 
 [**`Ejemplo 2`**](ejemplo02/README.md) [**`Actividad 2`**](actividad02/README.md)
 
@@ -91,7 +90,6 @@ for (<inicialiación; <condición; <actualización>)
 ```
 
 <img src="imagenes/imagen4.png" align="center" height="280" width="260" hspace="10">
-<br/><br/>
 
 [**`Ejemplo 3`**](ejemplo03/README.md) [**`Actividad 3`**](actividad03/README.md)
 
