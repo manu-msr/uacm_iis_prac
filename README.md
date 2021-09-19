@@ -16,4 +16,5 @@ Laboratorio | Tema                                                              
 2           | [Repaso: Estructuras de Decisión](laboratorio02/README.md)              |
 3           | [Repaso: Estructuras de Repetición](laboratorio03/README.md)            |
 4           | [Repaso: Funciones y Arreglos](laboratorio04/README.md)                 |
-5           | [Paso de Parámetros](laboratorio05/README.md)                            |
+5           | [Paso de Parámetros](laboratorio05/README.md)                           |
+6           | [Funciones sobre Arreglos](laboratorio06/README.md)                     |
