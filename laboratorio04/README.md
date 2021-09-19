@@ -101,4 +101,4 @@
 
 <br/>
 
-[`Anterior`](../laboratorio02/README.md) | [`Siguiente`](../laboratorio04/README.md)
+[`Anterior`](../laboratorio03/README.md) | [`Siguiente`](../laboratorio05/README.md)
