@@ -18,3 +18,4 @@ Laboratorio | Tema                                                              
 4           | [Repaso: Funciones y Arreglos](laboratorio04/README.md)                 |
 5           | [Paso de Parámetros](laboratorio05/README.md)                           |
 6           | [Funciones sobre Arreglos](laboratorio06/README.md)                     |
+7           | [Matrices](laboratorio07/README.md)                                     |
