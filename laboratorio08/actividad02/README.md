@@ -43,11 +43,10 @@ Escribe el mensaje que le quieres enviar:
 Es importante que te comuniques conmigo lo antes posible. Nos vemos.
 Dándole formato al mensaje...
 **********************************************************************
-De: “ KARLA PÉREZ GONZÁLEZ ”
-Para: “ DIEGO VERA JUÁREZ ”
-Dirección: Ote 14 , #12 , México , 56844
-2Introducción a Ciencias de la Computación
-Es importante que te comuniques conmigo lo antes posible. Nos vemos.
+De: “KARLA PÉREZ GONZÁLEZ”
+Para: “DIEGO VERA JUÁREZ”
+Dirección: Ote 14,#12,México,56844
+   Es importante que te comuniques conmigo lo antes posible. Nos vemos.
 ***********************************************************************
 Cantidad de caracteres = 58, sin contar espacios en blanco.
 ```
