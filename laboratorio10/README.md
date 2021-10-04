@@ -1,6 +1,6 @@
 [`Introducción a la Ingeniería de Software`](../README.md) > `Laboratorio 9`
 
-## Laboratorio 9: Definición e Inicialización de Apuntadores
+## Laboratorio 9: Apuntadores (I)
 
 <img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 
@@ -24,7 +24,7 @@ Más adelante, estos conceptos nos permitirán introducir el concepto de *memori
 
 ---
 
-#### <ins>Introducción</ins>
+#### <ins>Definición e Inicialización de Variables a Apuntadores</ins>
 
 - Los apuntadores son variables cuyos valores son direcciones en memoria.
 
