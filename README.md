@@ -19,4 +19,5 @@ Laboratorio | Tema                                                              
 5           | [Paso de Parámetros](laboratorio05/README.md)                           |
 6           | [Funciones sobre Arreglos](laboratorio06/README.md)                     |
 7           | [Matrices](laboratorio07/README.md)                                     |
-8           | [Manejo Básico de Cadenas](laboratorio08/README.md)                            |
+8           | [Manejo Básico de Cadenas](laboratorio08/README.md)                     |
+9           | [Apuntadores (I)](laboratorio09/README.md)                              |
