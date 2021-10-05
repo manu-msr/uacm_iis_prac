@@ -21,3 +21,4 @@ Laboratorio | Tema                                                              
 7           | [Matrices](laboratorio07/README.md)                                     |
 8           | [Manejo Básico de Cadenas](laboratorio08/README.md)                     |
 9           | [Declaración e Inicialización de Apuntadores](laboratorio09/README.md)  |
+10          | [Caso de Estudio: Ordenamiento de Burbuja](laboratorio10/README.md)     |
