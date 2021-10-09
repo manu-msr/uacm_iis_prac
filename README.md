@@ -22,3 +22,4 @@ Laboratorio | Tema                                                              
 8           | [Manejo Básico de Cadenas](laboratorio08/README.md)                     |
 9           | [Declaración e Inicialización de Apuntadores](laboratorio09/README.md)  |
 10          | [Caso de Estudio: Ordenamiento de Burbuja](laboratorio10/README.md)     |
+11          | [El operador `sizeof`](laboratorio11/README.md)                         |
