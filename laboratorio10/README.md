@@ -20,7 +20,7 @@ Un ordenamiento es la operación mediante la cual se organizan los elementos de 
 
 Existen en la actualidad distintos algoritmos de ordenamiento cada uno con diferentes complejidades. Sin embargo, dada la falta de dominio del tema para el nivel de este curso, estudiaremos únicamente El Ordenamiento de Burbuja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPRA0W1kECg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video 1](imagenes/video1.png)](https://www.youtube.com/embed/kPRA0W1kECg)
 
 ---
 
@@ -28,7 +28,7 @@ Existen en la actualidad distintos algoritmos de ordenamiento cada uno con difer
 
 Comencemos con un vídeo ilustrativo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video 2](imagenes/video2.png)](https://www.youtube.com/embed/lyZQPjUT5B4)
 
 <br/>
 
