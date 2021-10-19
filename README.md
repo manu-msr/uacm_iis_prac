@@ -24,3 +24,4 @@ Laboratorio | Tema                                                              
 10          | [Caso de Estudio: Ordenamiento de Burbuja](laboratorio10/README.md)                  |
 11          | [El operador `sizeof`](laboratorio11/README.md)                                      |
 12          | [Expresiones de tipo apuntador y aritmética de apuntadores](laboratorio12/README.md) |
+13          | [Apuntadores, Arreglos y Funciones](laboratorio13/README.md)                         |

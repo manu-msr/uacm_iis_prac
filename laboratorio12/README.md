@@ -95,4 +95,4 @@ Los apuntadores son operandos válidos en las expresiones aritméticas, asignaci
 
 <br/>
 
-[`Anterior`](../laboratorio10/README.md) | [`Siguiente`](../laboratorio12/README.md)
+[`Anterior`](../laboratorio11/README.md) | [`Siguiente`](../laboratorio13/README.md)
