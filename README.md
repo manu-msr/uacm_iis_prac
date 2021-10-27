@@ -6,7 +6,9 @@
 
 ### Descripción :pencil:
 
-En este curso el estudiante aprenderá y aplicará técnicas de Proceso de Software Personal (PSP) y conocerá la necesidad de utilizar técnicas, métodos, herramientas y estándares para elaborar sistemas de software eficientes, costeables y con un alto grado de calidad, distinguiendo las etapas de proceso de software y conociendo su conducción administrativa. De la misma forma, continuará adquiriendo conocimientos del área de programación que se introdujeron en el curso de Introducción a la Programación de forma tal que se seguirán estudiando distintas características del Lenguaje de Programación C.
+En este curso el estudiante aprenderá y aplicará técnicas de Proceso de Software Personal (PSP) y conocerá la necesidad 
+de utilizar técnicas, métodos, herramientas y estándares para elaborar sistemas de software eficientes, costeables y con un alto grado de calidad, distinguiendo las etapas de proceso de software y conociendo su conducción administrativa. De 
+la misma forma, continuará adquiriendo conocimientos del área de programación que se introdujeron en el curso de Introducción a la Programación de forma tal que se seguirán estudiando distintas características del Lenguaje de Programación C.
 
 ### Contenido :books:
 
@@ -25,3 +27,4 @@ Laboratorio | Tema                                                              
 11          | [El operador `sizeof`](laboratorio11/README.md)                                      |
 12          | [Expresiones de tipo apuntador y aritmética de apuntadores](laboratorio12/README.md) |
 13          | [Apuntadores, Arreglos y Funciones](laboratorio13/README.md)                         |
+14          | [Manejo de Cadenas mediante `string.h`](laboratorio14/README.md)                     |
