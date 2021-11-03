@@ -28,3 +28,4 @@ Laboratorio | Tema                                                              
 12          | [Expresiones de tipo apuntador y aritmética de apuntadores](laboratorio12/README.md) |
 13          | [Apuntadores, Arreglos y Funciones](laboratorio13/README.md)                         |
 14          | [Manejo de Cadenas mediante `string.h`](laboratorio14/README.md)                     |
+15          | [Búsqueda en Cadenas mediante `string.h`](laboratorio15/README.md)                   |
