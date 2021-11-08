@@ -29,3 +29,5 @@ Laboratorio | Tema                                                              
 13          | [Apuntadores, Arreglos y Funciones](laboratorio13/README.md)                         |
 14          | [Manejo de Cadenas mediante `string.h`](laboratorio14/README.md)                     |
 15          | [Búsqueda en Cadenas mediante `string.h`](laboratorio15/README.md)                   |
+16          | [Funciones de Conversión de cadenas](laboratorio16/README.md)                        |
+17          | [Biblioteca Estándar de Entrada/Salida sobre cadenas](laboratorio17/README.md)       |
