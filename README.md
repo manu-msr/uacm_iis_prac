@@ -31,3 +31,5 @@ Laboratorio | Tema                                                              
 15          | [Búsqueda en Cadenas mediante `string.h`](laboratorio15/README.md)                   |
 16          | [Funciones de Conversión de cadenas](laboratorio16/README.md)                        |
 17          | [Biblioteca Estándar de Entrada/Salida sobre cadenas](laboratorio17/README.md)       |
+18          | [Operaciones de Memoria mediante `string.h`](laboratorio18/README.md)                |
+19          | [Manejo de errores y longitud de cadenas](laboratorio19/README.md)                   |
