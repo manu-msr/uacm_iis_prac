@@ -33,3 +33,4 @@ Laboratorio | Tema                                                              
 17          | [Biblioteca Estándar de Entrada/Salida sobre cadenas](laboratorio17/README.md)       |
 18          | [Operaciones de Memoria mediante `string.h`](laboratorio18/README.md)                |
 19          | [Manejo de errores y longitud de cadenas](laboratorio19/README.md)                   |
+20          | [Definición de Estructuras](laboratorio20/README.md)                                 |
